@@ -6,7 +6,7 @@ As a bonus point, a function has been added that converts Fahrenheit temperature
 * Jupyter notebook
 * Python (aqlalchemy, numpy, pandas)
 * Sqlite
-* Spark (see app.py)
+* Flask (see app.py)
 
 # Overview of the analysis: 
 The purpose of this analysis is to underdstand temperature trends for the months of June and December for an island called Oahu, in order to determine if a surf and ice cream shop business is sustainable year-round.
