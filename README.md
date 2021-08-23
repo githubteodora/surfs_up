@@ -14,8 +14,10 @@ The purpose of this analysis is to underdstand temperature trends for the months
 # Results: 
  - The mean temperatures in December on the island of Oahu are a bit lower than the temperatures in June, but stays above 20 degress C (70 degress F). 
  - In December, the temperatures can fluctuate slightly more during the day.
- - Refer to the dataframe descriptions below:
+ - Dataframe summary screencaptures:
  
+ ![June Dataframe](https://github.com/githubteodora/surfs_up/blob/main/June%20desc.PNG)
+ ![Dec Dataframe](https://github.com/githubteodora/surfs_up/blob/main/Dec%20desc.PNG)
 
 # Recommendations:
  - It is necessary to understand when people go surfing on the island of Oahu - are the more reluctant to suft in cooler temperatures?
