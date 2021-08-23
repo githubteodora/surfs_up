@@ -3,10 +3,10 @@ This project uses python's sqlalchemy library in order to query a database (sqli
 As a bonus point, a function has been added that converts Fahrenheit temperatures into Celsius. The temperatures in celsius are recorded in a separate column.\
 
 # Software Used:
-Jupyter notebook
-Python (aqlalchemy, numpy, pandas)
-Sqlite
-Spark (see app.py)
+* Jupyter notebook
+* Python (aqlalchemy, numpy, pandas)
+* Sqlite
+* Spark (see app.py)
 
 # Overview of the analysis: 
 The purpose of this analysis is to underdstand temperature trends for the months of June and December for an island called Oahu, in order to determine if a surf and ice cream shop business is sustainable year-round.
