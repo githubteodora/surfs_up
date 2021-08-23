@@ -20,6 +20,6 @@ The purpose of this analysis is to underdstand temperature trends for the months
  ![Dec Dataframe](https://github.com/githubteodora/surfs_up/blob/main/Dec%20desc.PNG)
 
 # Recommendations:
- - It is necessary to understand when people go surfing on the island of Oahu - are the more reluctant to suft in cooler temperatures?
- - It is also necessary to analyze weather conditions - rain, fog, storms, etc. By looking at temperatures alone, it is difficult to make a good judgement about the sustainability of a surf and ice-create shop.
+ - It is necessary to understand when people go surfing on the island of Oahu - are they more reluctant to suft in cooler temperatures?
+ - It is also necessary to analyze weather conditions - rain, fog, storms, etc. By looking at temperatures alone, it is difficult to make a good judgement about the sustainability of a surf and ice-cream shop.
 
